@@ -1,2 +1,2 @@
 # FreakyNotes
-Notes app
+On progress
