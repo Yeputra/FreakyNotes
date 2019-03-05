@@ -1,0 +1,2 @@
+# FreakyNotes
+Notes app
